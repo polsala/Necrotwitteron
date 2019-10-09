@@ -6,13 +6,13 @@
 </div>
 
 
-<div align="left">
-<img src="docs/img/ash.png" alt="Smiley face" height="200" align="left">
-<img src="docs/img/ash.png" alt="Smiley face" height="200" align="left">
-<img src="docs/img/ash.png" alt="Smiley face" height="200" align="left">
-<img src="docs/img/ash.png" alt="Smiley face" height="200" align="left">
-<img src="docs/img/ash.png" alt="Smiley face" height="200" align="left">
-<img src="docs/img/ash.png" alt="Smiley face" height="200" align="left">
-<img src="docs/img/ash.png" alt="Smiley face" height="200" align="left">
-<img src="docs/img/ash.png" alt="Smiley face" height="200" align="left">
+<div align="center">
+  <img src="docs/img/ash.png" alt="Smiley face" height="150">
+  <img src="docs/img/ash.png" alt="Smiley face" height="150">
+  <img src="docs/img/ash.png" alt="Smiley face" height="150">
+  <img src="docs/img/ash.png" alt="Smiley face" height="150">
+  <img src="docs/img/ash.png" alt="Smiley face" height="150">
+  <img src="docs/img/ash.png" alt="Smiley face" height="150">
+  <img src="docs/img/ash.png" alt="Smiley face" height="150">
+  <img src="docs/img/ash.png" alt="Smiley face" height="150">
 </div>
