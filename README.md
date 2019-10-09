@@ -6,13 +6,6 @@
 </div>
 
 
-<div align="center">
-  <img src="docs/img/ash.png" alt="Smiley face" height="150">
-  <img src="docs/img/ash.png" alt="Smiley face" height="150">
-  <img src="docs/img/ash.png" alt="Smiley face" height="150">
-  <img src="docs/img/ash.png" alt="Smiley face" height="150">
-  <img src="docs/img/ash.png" alt="Smiley face" height="150">
-  <img src="docs/img/ash.png" alt="Smiley face" height="150">
-  <img src="docs/img/ash.png" alt="Smiley face" height="150">
-  <img src="docs/img/ash.png" alt="Smiley face" height="150">
+<div align="left" style="background-color:black;color:white;padding:20px;">
+  <img src="docs/img/ash.png" alt="Smiley face" height="300">
 </div>
