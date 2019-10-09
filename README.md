@@ -9,7 +9,7 @@
 <div align="left">
   <img src="docs/img/ash.png" alt="Smiley face" height="300">
 
-  <img src="docs/img/ash.png" alt="Smiley face" height="300" align="right">
+  <img src="docs/img/ashinv.png" alt="Smiley face" height="300" align="right">
 </div>
 
 
